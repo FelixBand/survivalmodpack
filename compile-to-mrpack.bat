@@ -1,0 +1,1 @@
+tar -a -c -f "Felix QOL Modpack.mrpack" modrinth.index.json overrides
