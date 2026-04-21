@@ -3,6 +3,7 @@ gamma:1.0
 fov:0.5
 directionalAudio:true
 inactivityFpsLimit:"minimized"
-resourcePacks:["vanilla","file/Low Shield.zip","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","file/FreshAnimations_v1.10.5.zip","file/Low Shield.zip","continuity:default","continuity:glass_pane_culling_fix","file/Enhanced Lightning Sound.zip","file/𝚎𝚎𝚛𝚒𝚎.zip","file/Enhanced Audio r7.zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.10.5.zip","file/Enhanced Lightning Sound.zip","file/𝚎𝚎𝚛𝚒𝚎.zip"]
 chatScale:0.7533216879401409
 chatWidth:0.5718873789612676
