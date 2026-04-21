@@ -1,1 +1,1 @@
-zip -r "Felix QOL Modpack.mrpack" modrinth.index.json overrides
+zip -r "Felix Survival Modpack.mrpack" modrinth.index.json overrides
