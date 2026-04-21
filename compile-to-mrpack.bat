@@ -1,1 +1,1 @@
-tar -a -c -f "Felix QOL Modpack.mrpack" modrinth.index.json overrides
+tar -a -c -f "Felix Survival Modpack.mrpack" modrinth.index.json overrides
