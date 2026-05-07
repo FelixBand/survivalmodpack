@@ -499,6 +499,432 @@
         "sha512": "732a7d876df4bfabfed3d6ad5a050ad8cb197c91dd0134419a1d78edbcbbc6ada3c413293c4f01e6beca828e19d1aaf35a706b727407d273d4c320cc77e575be"
       }
     },
+    {
+      "path": "mods/voxy-server-side-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/84zcagOb/versions/FUA8kyHB/voxy-server-side-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "22c7aaaabb2c0a6cd6871efbdf206205a4002552",
+        "sha512": "46c56bd6422ed5674ec5391abf2163c0c23e636c2bd2b0786122f6e580badc4767444d973e9e0545510e04bf2a4614555fe840956a43e7c973be20825d0f21fb"
+      }
+    },
+
+
+
+
+
+
+
+
+    {
+      "path": "mods/[1.21.x] Injured Effects v1.4.16.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/qmzLjXzU/versions/2fZD4WGh/%5B1.21.x%5D%20Injured%20Effects%20v1.4.16.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "138822aad1d0854af54e9445ab697990c8638530",
+        "sha512": "f5fa05eb15a284ef384dbd7534d0a0529551bc91019b62e7db1e8c48a8f0ee85ef40f8a10856511737d26fa3c3bf45783a07d0f033d619136b42aea8140116bd"
+      }
+    },
+    {
+      "path": "mods/AmbientSounds_FABRIC_v6.3.5_mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/fM515JnW/versions/JZUqW70J/AmbientSounds_FABRIC_v6.3.5_mc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "6e5973e22e9334f7a37cab444e1bf4fc9ac10448",
+        "sha512": "1b16caf81948127af1d40cddc16b44bd5bf21c43883fe494eb5912d7fa28d518dac8148bada769454c4d64777c40ea7637e52fea89b7485215779dc17751d7ca"
+      }
+    },
+    {
+      "path": "mods/BiomesOPlenty-fabric-1.21.11-21.11.0.31.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/HXF82T3G/versions/wfaWqpie/BiomesOPlenty-fabric-1.21.11-21.11.0.31.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5da3900166ab30ae141e5c85f24d9e690a7968b6",
+        "sha512": "d7cb092eaf51a8c3e96d1a03c4e5a6c33a1e577d7e046259a8f8995d7d54133b0042a87a9aa475150792177136e7267854706329fdcfe21995ad6c14ce23f100"
+      }
+    },
+    {
+      "path": "mods/cardinal-components-api-7.3.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/K01OU20C/versions/O2RJYZwD/cardinal-components-api-7.3.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "4ce70bf88e3bc4a0b1a072019d0964122f3180a3",
+        "sha512": "987497d5c598813544cd89df2651155abddcc881c0b73fc3fed4514d5a9666e608701a37ec9be565f9fd70514ac3e22b1d162d5b82200f620da0cc5742cca4ff"
+      }
+    },
+    {
+      "path": "mods/chicken-nerf-1.5.1+MC1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/KoP5DUTS/versions/dmVv08TH/chicken-nerf-1.5.1%2BMC1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "882c2221a7a3beee12c33db8110a8f0512aa0e23",
+        "sha512": "bcde12f672b0a1d51a175f1dffca4199465039ef8b8a1fbf207107647f430a05350587a960da270161ce7ddab5225cebcfe6eb133e7efa836a28828afc7efba9"
+      }
+    },
+    {
+      "path": "mods/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/OsZiaDHq/versions/jyLHWJlj/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "45720c9f59c67bcceddf062d21aec743a94856c4",
+        "sha512": "f30d3ca11a53a74043010c9c8c2a470de708030c12d325a00b317d72357dc2c250eb0de6ca78bf7f5ba0257a13b61f4a79580b3b92a13ae1b6a8441c5adb76a5"
+      }
+    },
+    {
+      "path": "mods/EnhancedVisuals_FABRIC_v1.8.27_mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/KjL0jE2w/versions/SZvveTvo/EnhancedVisuals_FABRIC_v1.8.27_mc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "ea405151c02efc6c30b2b0b198ca89a33619337e",
+        "sha512": "f421b8d7510c83a97c14fb05f87c6db246d65044eae57fb5acde4717816c8f116c173fde69258004af35e30f0fb9248463717821984cede309a5431e5aa01900"
+      }
+    },
+    {
+      "path": "mods/entity_model_features_1.21.11-fabric-3.2.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/wbSSx6vc/entity_model_features_1.21.11-fabric-3.2.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7ff1ece98ef40ad0221aed9ea38c4ed215b4e4f5",
+        "sha512": "2e9646d4731d5c2145a3087972a321e323d6fbf55a94883dc3aaffa893c74cb1cb06b9e79be8da9fb3743070480f672a99d5a1fd0e489ba98223ae705285b9e5"
+      }
+    },
+    {
+      "path": "mods/entity_texture_features_1.21.11-fabric-7.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/rAQimlSn/entity_texture_features_1.21.11-fabric-7.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "1d26dbb21dd4f17adbdb54f077334634f708a3d4",
+        "sha512": "7eeebcdc12e3c3fd282f891736452547a10c543848218697baaeff6ee079a6e8bc7b34332b5c26f303dd2f6561e17afe98f284c66fcc3b84b48bc38d6798d9b2"
+      }
+    },
+    {
+      "path": "mods/fractured-1.21.11-v1.2.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/sAL706ks/versions/gMiFOBKY/fractured-1.21.11-v1.2.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "1aa37804008e6a319181c0f5e037c26b91f60faf",
+        "sha512": "3a7ffb7799d7ccd6cf84cc7262edf45ab2bb3ae254a447eed0f6008b88ae143772144600df20247c87573415324e243fa25384a31dcc1ed4e5a7979acd375b8a"
+      }
+    },
+    {
+      "path": "mods/frostiful-2.4.0+1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ae6qoBj3/versions/NNfGXP1O/frostiful-2.4.0%2B1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "33fe2eb7c20681becac2c8e9240f09afc1eb15b8",
+        "sha512": "4416451aa42bb121506b2316635da92a58aadf23a3b5704ac07f343a571750cbf7c03c6b46680648feff22065f7b47779f3f243669daaab061def01d5f900066"
+      }
+    },
+    {
+      "path": "mods/FrozenLib-2.3-mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/9KawNmQc/versions/qegZSYpO/FrozenLib-2.3-mc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "8080110e1aff456196b43cc2ba837723d784cd69",
+        "sha512": "a6f61debe1a338cd84bde538923e85e9a4e89282d462e3308f5891a8321cded36e7687bce84e2a9147af7588033fc1849b79933c14465a9acd07040fe1318d49"
+      }
+    },
+    {
+      "path": "mods/GlitchCore-fabric-1.21.11-21.11.0.4.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/s3dmwKy5/versions/CO7NeLTt/GlitchCore-fabric-1.21.11-21.11.0.4.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5c3d6333ff8c50d4b5c16c9185e020d8afcb4988",
+        "sha512": "b0ea73e94647e5038a0a21f23357226a8767379e93a81c16bbfd8f87dead3ddeb768fc13bd557e94bb8f5e9b5c7e494fdc4f05d504227ba70af0ea4e6dd51187"
+      }
+    },
+    {
+      "path": "mods/gorify-2.7.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/M2yA1VFJ/versions/Hxnay8EJ/gorify-2.7.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5ceb3aaf7a69dc0d9356ebcee99d0eda2c6a0bf4",
+        "sha512": "e81d117a4c292a98e10188429f0c206a098a711e73f5e650e0c1f49d599c5c93ede7d3564915b174bd7314798c74ed16798a57308e8d6171438be5ed1b5eefdb"
+      }
+    },
+    {
+      "path": "mods/granular-hunger-0.7+1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/1RmtIvwG/versions/234u3qto/granular-hunger-0.7%2B1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "b023458ac51ce0bb25546983431230d3682887f6",
+        "sha512": "c8b01c5245e6f0d5bf91377b5dc3d89ece340745559cd19b81b47d906a8dc9cbaa03217f36ef769021792043d86de2f487edbf7d92edc2202d9e433434a1fe67"
+      }
+    },
+    {
+      "path": "mods/immersive_freezing-1.0.0+mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Llm6s2xf/versions/HCGTcby6/immersive_freezing-1.0.0%2Bmc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5c4909229635ad8940e9ea17a27b2b5a82730c1c",
+        "sha512": "831880b2a90b02cb48ac7f37e1e0f6d901518b569948fa7d2a235bec8b323fed73621aeee598ca78ae6ce838fc9f12e1655948a33bb28ddf779f38508acc9281"
+      }
+    },
+    {
+      "path": "mods/immersive-storms-1.6.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/SdJDElEu/versions/x2JFd9xZ/immersive-storms-1.6.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "a8373ed72fe1f4f563df9ba04c3eb096ae61f466",
+        "sha512": "08921de6acf32d57815277b0b55637787a9129e8a04e39a4b9730b3a1ba83daf46222018edbe25a86a5c3529e05eaa1eb0be527c038da2f0a1c68ed752cc8311"
+      }
+    },
+    {
+      "path": "mods/lithostitched-1.7.2-fabric-21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/XaDC71GB/versions/pLbQKCOo/lithostitched-1.7.2-fabric-21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "d35f576f35115e406466fa426ec661a82b12e760",
+        "sha512": "77e432cf8932f5a9e6caee5ed4e18d80e0782e5eb9852a0e14c3e2337f5f84ecc579277ac8b7cdbbeaf03ac2fd2b17b68e951a05355c7973df4fd9176774679f"
+      }
+    },
+    {
+      "path": "mods/modern-true-darkness-fabric-1.0.0+mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/CdcstX1Q/versions/DwGugx2F/modern-true-darkness-fabric-1.0.0%2Bmc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "704ce8918121c10d4cf0423d9fd1f1a6964e36e8",
+        "sha512": "0671d25299cd37f6a3a6fea6c468411e60cd2f23f5d35d5d93dc0f4066c910d1ba462fb45a195c98902efba7a0ec204e23acfdc001d92d0989101f291fe1bbe8"
+      }
+    },
+    {
+      "path": "mods/notenoughanimations-fabric-1.12.2-mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/MPCX6s5C/versions/ggZc2iRH/notenoughanimations-fabric-1.12.2-mc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "cbc66bb65e6b3a5523fb2da697fe64016e87ddea",
+        "sha512": "f41856f8345441b5f7ae18c795c8e7dea015a89332559da6eacd24f953aaec97fa7b6aa4989ccc6a956a33d84de40746e1c77087907d2330ccf733b2e25157ea"
+      }
+    },
+    {
+      "path": "mods/particlerain-4.0.0-beta.9+1.21.11-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/nrikgvxm/versions/HDPId4fr/particlerain-4.0.0-beta.9%2B1.21.11-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "3c72dfd6bfe5b302b4dd6dab0d6b89f249f44115",
+        "sha512": "c6cca2494e52c7ffdf636aa123cca6d3d0f92135eb3ce47a37a22e4faf5f065b5a4528a1ed61ddb4346f639788233bf603ccd104f0d1b663ddd675e852fa7ee1"
+      }
+    },
+    {
+      "path": "mods/physics-mod-3.1.40-mc-1.21.11-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Xy8aRQKS/versions/HxAWrLyZ/physics-mod-3.1.40-mc-1.21.11-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "98bfacc62695b019551ec135c62c3ad0dc8c7f09",
+        "sha512": "5df32b53910575a9036af9638fdb3176ff83fabdac64d8e028c8b44ef254537f380a58ef670940e506124b0cbab3c541693b0473dee91584c5c4c552b824834e"
+      }
+    },
+    {
+      "path": "mods/PresenceFootsteps-1.12.3+1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/rcTfTZr3/versions/eEkO3jAC/PresenceFootsteps-1.12.3%2B1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "56f9c5292679b22d908eb7da9753f13f0ea86f92",
+        "sha512": "9884a96b7f4f649b2d76dff42d861894656e7ce19be30057379a5b2a8f19018a64eb2b30458997b50693c4366e88e239b3e9d9e6089ae321e3d908d36dd4ac72"
+      }
+    },
+    {
+      "path": "mods/progression-reborn-1.21.11-v1.7.18.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/PE2WMGd2/versions/DS0JmtsD/progression-reborn-1.21.11-v1.7.18.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "daf8fff0b5d1bc4c17d0957490b38042b312d5d6",
+        "sha512": "c0e6bb28a6b5c8a639d2ac94164b4f53609f7496db425767ba7d9ecbafc2f9fa813b9e1d72182459cff2c5f060b38a3ab3f0901fccbd3e3ac51c9f3084695291"
+      }
+    },
+    {
+      "path": "mods/PushierPistons-1.0-mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/eIcHtprZ/versions/iOMriSyT/PushierPistons-1.0-mc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "d15a470decbc75002ee90e5c134178995f09375f",
+        "sha512": "1a2a600716451c1e68b4e0429cc8275d3a666c8ed0354f40296487755e922d51af736215e49e9a9c2513b145ad457c5e8af2c2c013b5a997f703e9c2408bff31"
+      }
+    },
+    {
+      "path": "mods/scorchful-0.16.8+1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/SZQ5qcdn/versions/2nDWvc38/scorchful-0.16.8%2B1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "a4d6ddd81daf093f85acbf47c822fea9088db606",
+        "sha512": "1ad0d9a99fd0822a0571d0b218ede4bde22197c8805642b4c8de30b790a20ec31c8ede78da41013f4f2e1727d8a928e850cd63c71c30cd3d1478367e915c84ef"
+      }
+    },
+    {
+      "path": "mods/SereneSeasons-fabric-1.21.11-21.11.0.4.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/e0bNACJD/versions/6GpaVF7N/SereneSeasons-fabric-1.21.11-21.11.0.4.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "0d53e49927105103dbf409e31d3c306123ce04ff",
+        "sha512": "ef671f013c8051be5872fe892208481fec734d5faf3fd4df83f07f23546ac1a9ae9e341bb515b78603888b27c75782ba0bca5e478366b20f4c442a4393c49de6"
+      }
+    },
+    {
+      "path": "mods/simple-datapacks-fabric-2.6.3+1.21.10.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Re6xQ62Z/versions/UGfuiTdu/simple-datapacks-fabric-2.6.3%2B1.21.10.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "1a96d2e40e59d7003e5547a59c788c56ad3a33e0",
+        "sha512": "99566fd2de68781458cdbb00e812eea8e094546d52d011ab3ce394a565fb7a143b238e8eb1472564368e853ac078655bf0e24235101ce0b5dba31262f21d86cc"
+      }
+    },
+    {
+      "path": "mods/sonic-break-1.2.1+1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/fuzYnaf7/versions/KngvZCaw/sonic-break-1.2.1%2B1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "4c4d72379767d57b8ffe9ca671692f231a5bf934",
+        "sha512": "f1b5625413536d4e5ab9385e289c2ec7e900ca4e8b0a6887725f7a91ad8ca2d9c7901d4927ea26a4862176c4e032620c83462e3ed890eecc3caaafba1e28298b"
+      }
+    },
+    {
+      "path": "mods/TerraBlender-fabric-1.21.11-21.11.0.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/kkmrDlKT/versions/chxo508B/TerraBlender-fabric-1.21.11-21.11.0.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e4bd1aee6bc8c56ae77647a06f31a3bd981962a6",
+        "sha512": "05bed03e80351e7795cfbe1a9375e54a8a326552379737d8e5dcd400c4a36fefdf57f18468b95121556576d1ef549aa397a638114acd30eab69342d86b576814"
+      }
+    },
+    {
+      "path": "mods/Terralith_1.21.11_v2.6.1_Fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/8oi3bsk5/versions/vVdNToqE/Terralith_1.21.11_v2.6.1_Fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "982e7e763d91765e86e4bf6cb1407ebd2eac0c00",
+        "sha512": "c502e8c18cc6b749fd3d5e8fc6e1d3fc91cdb9763c58c1c7e68c2ea69fb61f27259128171d5f50b2aaa0ea6a7753fcc293f14127110f5f4d2e2141758ffd469e"
+      }
+    },
+    {
+      "path": "mods/thermoo-9.1.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/9TbXlAut/versions/JXIL16Ku/thermoo-9.1.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5a12b3edc0678be9550d59e4fe090dc91a5130a8",
+        "sha512": "697882cbeab4d05375507872819b9a1806c98a3e4f187f69d31482acf8ba5a60b5e29d9718ab0cbc65cadac3a739e2366918084511b9de2d0b018cfb52422c20"
+      }
+    },
+    {
+      "path": "mods/thermoo-patches-4.0.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/TYRF9nUy/versions/ZC8wP0Gl/thermoo-patches-4.0.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2efade043fd8d765906e8dabf2ba19d2a68ad06f",
+        "sha512": "58ca0a41d586e7ec958f85161a6a328f9b91d27b330d08d7b90238347b7d9ab9a7a1ad1c2887780bed6aa30564a62e1582578b9cf626184b7bdaed1174778a89"
+      }
+    },
+    {
+      "path": "mods/tru.e-ending-1.1.4d.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/MCnBYP0b/versions/BWvn4Jtr/tru.e-ending-1.1.4d.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "1758ded3a3644120b1423cdbaf3a3215140ba5ab",
+        "sha512": "fc1f69d77ec073ecafe5df9dbfff97fa633be42bdf4b5fb8325fe55a6219db9cdb48db0b73ae4b110c667e2fcc37c7c5721c377a2f165bbff56bc612daa37432"
+      }
+    },
+    {
+      "path": "mods/visualhealth-fabric-1.21.11-1.1.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/X01iuqRJ/versions/UfbIG6wy/visualhealth-fabric-1.21.11-1.1.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "a5ff86352aa534b04018feeb549a1e293bc58d64",
+        "sha512": "45fe1fa19426be030193dd9b87e43db19ac89387441f289ff1760ad0fe97dec2dd5cbd84f3e0569ef886c3e78fb5b0508d21dc1330a53336ce9d905cc168eba6"
+      }
+    },
+    {
+      "path": "mods/waterlog-1.0.5.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/ctFAPKUl/versions/NU6YaOK6/waterlog-1.0.5.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e48f5542e57202c9d822cbd54c6746f4078a4245",
+        "sha512": "d1619412a6255d37545fdba536fe5b386222cbb9057b59b127e3f8cbf5e5b7adf52695125191812ed9ef5b0e93d7c4d51ff11ac083ade7499226f30651485f09"
+      }
+    },
+    {
+      "path": "mods/waterlog-1.0.5.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/z1e0VLjL/versions/fp7V7Lcj/ZombiesBreak%26Build-fabric-1.21.11-1.6.3.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e3b846d57ff1a17e78ca02ff656c6ca04c0afead",
+        "sha512": "28e47f7a24f569754b4f227c80db91b77de69c7575c912b5e36f46a691472ae7f7799399f01fc24596cc8aed5dac4e167ff679153530200bee559ae077d3b966"
+      }
+    },
 
 
 
