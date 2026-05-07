@@ -929,6 +929,55 @@
 
 
     {
+      "path": "datapacks/zRemove_SDL_Intro_v1.2.2.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk4iFZGy/versions/xP2c7poa/zRemove_SDL_Intro_v1.2.2.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "6921672d24661976a7f792bde01907d0ece6d100",
+        "sha512": "2d59a8b8182ebc68022d55c03d056eec75b9ab73cb4c086c03b1fea9793f41edee600b97078a839e89d213ee32850dc1603656e0c9f504fc2a217e6a0d11c005"
+      }
+    },
+    {
+      "path": "datapacks/FreshAnimations_v1.10.4.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "73db740a6868e043c5e615c036fca2c912615b6e",
+        "sha512": "41258f9bea1a773d823f9a014d0c08206e9e7b339bc538e1538211fff28fadd06878a836d292cbb636ed6829cd2801a509368ae3eb3ad4bedf42190a0d5f7a90"
+      }
+    },
+    {
+      "path": "resourcepacks/Enhanced Lightning Sound.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/dt18rFYe/versions/7OA3AOPR/Enhanced%20Lightning%20Sound.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "52891e6667a106d988350eb1c008fc7d13e61160",
+        "sha512": "3054e53debe5becc5d39d3231dad0ea77b568155c9c34242cdf779814b209e0fa89d3d26d811c8f45b83290db80c8cdc4fbf5cd17af41aedc62cc63b91d5b363"
+      }
+    },
+    {
+      "path": "resourcepacks/𝚎𝚎𝚛𝚒𝚎.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/pSYf5HuD/versions/Hfb88Yxs/%F0%9D%9A%8E%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8E.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "67858b9c2339134f561440518b2cc82e5883dbb5",
+        "sha512": "c25c4c21d28a9b25aa6c458120e5961d924371b36917df7fb0a9f4a7558a9c8963a864100f8ebb5bbf39feb9196eff60b6772e7fae9f88f119152b5eaf94f6d2"
+      }
+    },
+
+
+
+
+
+    {
       "path": "resourcepacks/Low Shield.zip",
       "downloads": [
         "https://cdn.modrinth.com/data/CZrLuVQo/versions/iYnjrHnl/Low%20Shield.zip"
