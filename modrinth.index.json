@@ -961,6 +961,17 @@
         "sha512": "c25c4c21d28a9b25aa6c458120e5961d924371b36917df7fb0a9f4a7558a9c8963a864100f8ebb5bbf39feb9196eff60b6772e7fae9f88f119152b5eaf94f6d2"
       }
     },
+    {
+      "path": "resourcepacks/Enhanced Audio r7.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/UinPYBF7/versions/6qVu8iKs/Enhanced%20Audio%20r7.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2cd4bd529641bde061c2d2d4c44de3228fd6d767",
+        "sha512": "7db245933253d731c8df3060d85629ce984c98568f02e022d79466882c97485b6237d4b5df5f1075c0f61dfd7dd3344a5ba7a3e6a4e2a64372c14ada211451fe"
+      }
+    },
 
 
 
