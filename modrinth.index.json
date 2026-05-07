@@ -467,17 +467,6 @@
       }
     },
     {
-      "path": "mods/ViaFabricPlus-4.4.11.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/rIC2XJV4/versions/8Us9jOjr/ViaFabricPlus-4.4.11.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "4c4d943fecf384c02faecd3df985dc334f533824",
-        "sha512": "29eb0dc6d87ea16d02b545234fe02f3fcddde1ec7fd294b4f5654763da153bddbe6339ae3b16791f9dc4b26929e546fa4d642b99addff024e38135529114d2a0"
-      }
-    },
-    {
       "path": "mods/skinrestorer-2.7.0+1.21.11-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/ghrZDhGW/versions/64YNvBfd/skinrestorer-2.7.0%2B1.21.11-fabric.jar"
