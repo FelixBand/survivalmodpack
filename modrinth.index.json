@@ -936,7 +936,28 @@
         "sha512": "d0e11f275870edfc94e03ad92ca11d931aef1e9591a0833745194ed312c5b33fd1ceacd0382bd8550fb28e10877c6984115ef72c0046978487196a2574057cf0"
       }
     },
-
+    {
+      "path": "mods/variantsandventures-fabric-1.0.24+mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/lNDRiXkY/versions/yV7Wgn92/variantsandventures-fabric-1.0.24%2Bmc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "b3c17e50e0b5104d87a5089aad0b9aa24fc051f9",
+        "sha512": "635cc33376b6bedb679dde5b92ea38b7e08753ce5871bb6e67388ed7260daa5393a64387ffd46066baa3bd34842979e07f6d790fb9278d6248879301ec14982c"
+      }
+    },
+    {
+      "path": "mods/aitk-1.1.2-fabric+1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/A0W9tMly/versions/4kbVE7zY/aitk-1.1.2-fabric%2B1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "a3f3871d76210079c3e1c34ce68d66b002889641",
+        "sha512": "0dd880c8b4e32a3d756ff4401a2fff01ba6532a72ed0fb60668b144eb2fab7ccef65a24ce4acc1e4e3433b80637b81f4b01137f5bb7132a1238cd774fb54e6a1"
+      }
+    },
 
 
     {
