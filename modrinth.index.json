@@ -958,6 +958,28 @@
         "sha512": "0dd880c8b4e32a3d756ff4401a2fff01ba6532a72ed0fb60668b144eb2fab7ccef65a24ce4acc1e4e3433b80637b81f4b01137f5bb7132a1238cd774fb54e6a1"
       }
     },
+    {
+      "path": "mods/icys-better-horses-1.0.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/XlUm5I57/versions/5zxOG5oF/icys-better-horses-1.0.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7944ada610520a1bc464aab4be83fdc62a2b4a8d",
+        "sha512": "e47ba6362efc7556cc70195e934b910f6292ac7a677dc3e3bd9234b939f5f5ea197e760d4dbad6001ca5a910e22e4f2e210604198ddd326e36f966f60866d216"
+      }
+    },
+    {
+      "path": "mods/geckolib-fabric-1.21.11-5.4.5.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/G1BvHQDL/geckolib-fabric-1.21.11-5.4.5.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "41cd2e142e48a8b6604d85764a6466fe5edb70c3",
+        "sha512": "e3fec3a07fd2a39af287cfa682f531913a6b82af5c23b60a231e8586ed1c5b1d2857f6714fa069315a1d7366c0d148d167178a9531b59629d488eb1cace6c97e"
+      }
+    },
 
 
     {
