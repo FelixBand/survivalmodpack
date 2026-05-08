@@ -914,6 +914,17 @@
         "sha512": "28e47f7a24f569754b4f227c80db91b77de69c7575c912b5e36f46a691472ae7f7799399f01fc24596cc8aed5dac4e167ff679153530200bee559ae077d3b966"
       }
     },
+    {
+      "path": "mods/firearrows-fabric-1.21.11-13.4.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/NoajjpZQ/versions/govjYPhW/firearrows-fabric-1.21.11-13.4.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "f44248a3894378a9577dfa0b7aa90b92e4b9b173",
+        "sha512": "d0e11f275870edfc94e03ad92ca11d931aef1e9591a0833745194ed312c5b33fd1ceacd0382bd8550fb28e10877c6984115ef72c0046978487196a2574057cf0"
+      }
+    },
 
 
 
