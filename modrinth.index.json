@@ -915,6 +915,17 @@
       }
     },
     {
+      "path": "mods/deimos-1.21.11-fabric-2.6.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/WQaxNzFg/versions/zFqTtD6H/deimos-1.21.11-fabric-2.6.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "280e870236aff260e27ce483e8f38ae54662e0ec",
+        "sha512": "2371a921dfe8402393de0f78f9faa40c8fe8a8e2155187327e55eebb0754a16161bfcd64358133b5e5269be40a85523780bc156689774b119c5203bbd47ed720"
+      }
+    },
+    {
       "path": "mods/firearrows-fabric-1.21.11-13.4.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/NoajjpZQ/versions/govjYPhW/firearrows-fabric-1.21.11-13.4.jar"
