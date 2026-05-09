@@ -1013,6 +1013,17 @@
         "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78"
       }
     },
+    {
+      "path": "mods/attributefix-fabric-1.21.11-21.11.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/lOOpEntO/versions/8Nzs7ztr/attributefix-fabric-1.21.11-21.11.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "95995c0abe13cab9f310bb44d925988525f2f382",
+        "sha512": "8e4171672e2631d7e11bdfb543079f3a9c4a7afe6c53478e25ad22f035e64031119543a65a06343c981323a1b7ee5847d6cf41ef1fa3eff10036a8cf180bde82"
+      }
+    },
 
 
     {
