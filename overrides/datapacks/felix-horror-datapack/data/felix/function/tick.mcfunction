@@ -1,7 +1,7 @@
-execute as @e[type=zombie] run attribute @s movement_speed base set 0.3
-execute as @e[type=drowned] run attribute @s movement_speed base set 0.3
-execute as @e[type=husk] run attribute @s movement_speed base set 0.3
-execute as @e[type=zombie_villager] run attribute @s movement_speed base set 0.3
+execute as @e[type=zombie,nbt=!{IsBaby:1b}] run attribute @s movement_speed base set 0.3
+execute as @e[type=drowned,nbt=!{IsBaby:1b}] run attribute @s movement_speed base set 0.3
+execute as @e[type=husk,nbt=!{IsBaby:1b}] run attribute @s movement_speed base set 0.3
+execute as @e[type=zombie_villager,nbt=!{IsBaby:1b}] run attribute @s movement_speed base set 0.3
 
 execute as @e[type=skeleton] run attribute @s movement_speed base set 0.2
 
