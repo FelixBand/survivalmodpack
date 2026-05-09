@@ -991,6 +991,17 @@
         "sha512": "e3fec3a07fd2a39af287cfa682f531913a6b82af5c23b60a231e8586ed1c5b1d2857f6714fa069315a1d7366c0d148d167178a9531b59629d488eb1cace6c97e"
       }
     },
+    {
+      "path": "mods/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/qi1sj2da/versions/OsMQkl4P/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e5232b315ae8e1e589a9f13ea90d6db5e5987bc2",
+        "sha512": "fd10910c53142fad211c7b51886cc9024efd2da1b97bd6a74f6b08d066c6fd8419d8f0653924a5ed861c39260821ce3275222890f66ae92589ea345eb058bdac"
+      }
+    },
 
 
     {
