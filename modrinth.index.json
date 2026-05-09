@@ -1024,6 +1024,17 @@
         "sha512": "8e4171672e2631d7e11bdfb543079f3a9c4a7afe6c53478e25ad22f035e64031119543a65a06343c981323a1b7ee5847d6cf41ef1fa3eff10036a8cf180bde82"
       }
     },
+    {
+      "path": "mods/enchanted-utilities-1.2.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Tu3w5HjV/versions/jKaeYndB/enchanted-utilities-1.2.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "320e8dc3f9ed63efd5e79ec62d792b3d4548550b",
+        "sha512": "a7c51df9aa3690ee841e2d36f5ae1340239f88821393c68ba53ef9ee3ae7c661c26926fb1ff1aa6c1b0cfb1f84c1592718f1f494845203275a360f8d3f71a6a0"
+      }
+    },
 
 
     {
