@@ -1104,6 +1104,17 @@
       }
     },
     {
+      "path": "resourcepacks/Semos Animations Lib 2.0.1.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/SY2QNRYK/versions/T4P7ECef/Semos%20Animations%20Lib%202.0.1.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "6f73ef4b096018aa71b15f7875a46494243e00f0",
+        "sha512": "e48e54b0306175a7fe416c2d49737151bda8ac6ae0cf6d5ba97db7b888b65c377baaa94040559b228ec669be9e853d5ec3b3feacf308ebff39ad69974056fe63"
+      }
+    },
+    {
       "path": "resourcepacks/Enhanced Lightning Sound.zip",
       "downloads": [
         "https://cdn.modrinth.com/data/dt18rFYe/versions/7OA3AOPR/Enhanced%20Lightning%20Sound.zip"
