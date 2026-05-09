@@ -1093,6 +1093,17 @@
       }
     },
     {
+      "path": "resourcepacks/Freshly Modded 3.0.1.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/u4nhiAdP/versions/KEHIpS8i/Freshly%20Modded%203.0.1.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "949405f384c4171534e6963cae0ec3c9c868d207",
+        "sha512": "74100529d6f5e7edf5c43808ab343bbfa0fdb4658b4f951fbb8bf88db1d9c88f730786902570d035811b6f3c4f87fadc3651038fb772874b923ba2dc823719a8"
+      }
+    },
+    {
       "path": "resourcepacks/Enhanced Lightning Sound.zip",
       "downloads": [
         "https://cdn.modrinth.com/data/dt18rFYe/versions/7OA3AOPR/Enhanced%20Lightning%20Sound.zip"
