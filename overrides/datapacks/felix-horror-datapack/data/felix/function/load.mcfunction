@@ -1,3 +1,2 @@
-tellraw @a {"text":"Felix' horrorpack loaded"}
-
 gamerule players_sleeping_percentage 200
+gamerule respawn_radius 1000
