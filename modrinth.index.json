@@ -1082,6 +1082,17 @@
       }
     },
     {
+      "path": "resourcepacks/Fresh Patch - Variants and Ventures.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/hbqvkk71/versions/Kg1L8En2/Fresh%20Patch%20-%20Variants%20and%20Ventures.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "063c27492ad20ce92428b9dac89e90b66d4ea16b",
+        "sha512": "720ca7bd8248d5325523ff15c96aa73d3d0ad877bdff2730b47b344708eac6fa27eb47122810ed9c27addb5ace3d7f668ab12729caa984b7909a27480b717e20"
+      }
+    },
+    {
       "path": "resourcepacks/Enhanced Lightning Sound.zip",
       "downloads": [
         "https://cdn.modrinth.com/data/dt18rFYe/versions/7OA3AOPR/Enhanced%20Lightning%20Sound.zip"
