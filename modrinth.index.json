@@ -1003,14 +1003,25 @@
       }
     },
     {
-      "path": "mods/yosbr-0.1.2.jar",
+      "path": "mods/immersive-winds-1.21.11-0.9.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"
+        "https://cdn.modrinth.com/data/smYLXoRt/versions/380VWSlL/immersive-winds-1.21.11-0.9.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
-        "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78"
+        "sha1": "c4bf3dc3b95ea77b7fe33af81769fba4338cee6d",
+        "sha512": "f97f70e3d2562078f4a0304ffe6e4d8d73ec9e9868d671e55659d08df7f772f4b490aedbff50c5a4412344fc4c6c79143c86cff69c3ff3bfdb4b0a94ea2e7fe6"
+      }
+    },
+    {
+      "path": "mods/prickle-fabric-1.21.11-21.11.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/aaRl8GiW/versions/fgUon9A6/prickle-fabric-1.21.11-21.11.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "ba448b0b274abd54ad24332055fbb1cdc66e43c0",
+        "sha512": "4643cb5bae5c108eb18fac2270e85ea0adcfe5201f188dcd26a1c14129b7dde7c89bfadf9ab6fe0a048b7e05f39217e969548c1f5c1d212c86abbaec7203a3c3"
       }
     },
     {
