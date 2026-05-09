@@ -1046,6 +1046,17 @@
         "sha512": "a7c51df9aa3690ee841e2d36f5ae1340239f88821393c68ba53ef9ee3ae7c661c26926fb1ff1aa6c1b0cfb1f84c1592718f1f494845203275a360f8d3f71a6a0"
       }
     },
+    {
+      "path": "mods/AmbientEnvironment-fabric-1.21.11-27.0.0.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/DyTvM1dv/versions/faO2wdYQ/AmbientEnvironment-fabric-1.21.11-27.0.0.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5f1cf23371b3baf329a05364ac6284e02395f9a6",
+        "sha512": "76edfc88d7eab074b581599c54c091ab45592fccc3345ea1c421950cde310d2d2bdee0e57e4e534a0802f24bc22204e51b823ac02fefcb0adc9d769e72f9acb0"
+      }
+    },
 
 
     {
