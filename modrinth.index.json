@@ -937,6 +937,17 @@
       }
     },
     {
+      "path": "mods/ResourcefulLib-fabric-1.21.11-3.11.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/G1hIVOrD/versions/Q2Njmve7/ResourcefulLib-fabric-1.21.11-3.11.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "6a198fc18cdb7922b6be74d3ec165dc57729657a",
+        "sha512": "7302cc0586b4ed079b4d87151c5b730940c0ded0b03f0b377f0bf6852bf6d28aed70b4a267365d6057c99cd2b24347f0d5eb52366c9b001d3b719505b8072313"
+      }
+    },
+    {
       "path": "mods/variantsandventures-fabric-1.0.24+mc1.21.11.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/lNDRiXkY/versions/yV7Wgn92/variantsandventures-fabric-1.0.24%2Bmc1.21.11.jar"
