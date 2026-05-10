@@ -1057,6 +1057,39 @@
         "sha512": "76edfc88d7eab074b581599c54c091ab45592fccc3345ea1c421950cde310d2d2bdee0e57e4e534a0802f24bc22204e51b823ac02fefcb0adc9d769e72f9acb0"
       }
     },
+    {
+      "path": "mods/IllagerInvasion-v21.11.1-mc1.21.11-Fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/jSV9w0J5/versions/yvVMFPsK/IllagerInvasion-v21.11.1-mc1.21.11-Fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "eb6c99334ae5a1fda7f8d1b0292776f2734ad17a",
+        "sha512": "0123fbe08102ee00fb2e493e2a668bfb52318764a2e287ec56716890060ffc0eb9537eb6cbed357fb47c5ee179fa426a41bca0da3ca040c181814235c027c1b7"
+      }
+    },
+    {
+      "path": "mods/legacies-and-legends-1.21.11-v2.2.28.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/rJvxBgdw/versions/AdFLY5Mh/legacies-and-legends-1.21.11-v2.2.28.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "311712f269fc2bdbe809b9905ca78cbc59a289ad",
+        "sha512": "4740fb136ee78841571133fd5fac956a72ae44b270639c706026bf0c81041a992e98ed6570554d0704b613f14ee6197e822981c11ba576b8a8199e80e0e79b73"
+      }
+    },
+    {
+      "path": "mods/enderscape-fabric-2.1.0+mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/btCrWvHr/versions/3cYKvu3m/enderscape-fabric-2.1.0%2Bmc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "fc23469ee0845df9a4961db9cb1182d55e7ed2b3",
+        "sha512": "6ac4ca5bb038519b4bfe9004c45c82279999562f5da92907e614ac88a47d6c41dd47f860dfe21c322fd01ebecb7be5dea6bea0e1505ae9e4742201be66dfd6ff"
+      }
+    },
 
 
     {
