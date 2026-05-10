@@ -1069,6 +1069,28 @@
       }
     },
     {
+      "path": "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/ohNO6lps/versions/uXrWPsCu/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "61aa1b5fafd75afc44552d0213cac39bc938bc2d",
+        "sha512": "28791c992d613da14b8685505d3ef632ed53b5f1e1d517f0b41677d10f8419f192dfbde991308df6cda5d0f113c0aa8fc18ecf4a0834029403b16d2f68dc52d6"
+      }
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/owXZpJai/PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "f502faff2063b34cfca40cfada13e4fecf69e7fc",
+        "sha512": "dbf4c97191455fe8e3c6801ddacc17d5157b5922f15a40e490ee0e2b172fe4718f4e5ec93ed244224aa077c7f53dcf30657ca68ac2d7f5692066ea7020af1542"
+      }
+    },
+    {
       "path": "mods/legacies-and-legends-1.21.11-v2.2.28.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/rJvxBgdw/versions/AdFLY5Mh/legacies-and-legends-1.21.11-v2.2.28.jar"
