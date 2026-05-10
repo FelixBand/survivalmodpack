@@ -1112,6 +1112,17 @@
         "sha512": "6ac4ca5bb038519b4bfe9004c45c82279999562f5da92907e614ac88a47d6c41dd47f860dfe21c322fd01ebecb7be5dea6bea0e1505ae9e4742201be66dfd6ff"
       }
     },
+    {
+      "path": "mods/SheepVariety-v21.11.0-mc1.21.11-Fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/D3buchWZ/versions/2A8FqzUJ/SheepVariety-v21.11.0-mc1.21.11-Fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "edd219b813fab308b976e6b6386efac8b7b4cf59",
+        "sha512": "7a7127285f7fa84a7d68bfb167feefd40f37cec7450a1cd11e9f5048db37580bc65082c5feeb034805cb79e1133841dc05af8837bc4334af4d83ad2ada5a3067"
+      }
+    },
 
 
     {
