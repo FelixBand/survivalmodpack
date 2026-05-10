@@ -1123,19 +1123,9 @@
         "sha512": "7a7127285f7fa84a7d68bfb167feefd40f37cec7450a1cd11e9f5048db37580bc65082c5feeb034805cb79e1133841dc05af8837bc4334af4d83ad2ada5a3067"
       }
     },
-    {
-      "path": "mods/sodiumcoreshadersupport-1.5.0-mc1.21.11-sodium0.8.11-1.5.0.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/G8yJPRdl/versions/Irx5XM9P/sodiumcoreshadersupport-1.5.0-mc1.21.11-sodium0.8.11-1.5.0.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "a5e30f7606800dec4ba11ab078a39b87524110a5",
-        "sha512": "92cf298466094934e302f566b8134aa87f6d801a91b07bffaf6566820d7fce2a1ddccec8732fb30fde7bd22f5da5a85d32bdd62ffbf5ed4eb7b367df36a2894c"
-      }
-    },
 
 
+    
     {
       "path": "datapacks/zRemove_SDL_Intro_v1.2.2.zip",
       "downloads": [
