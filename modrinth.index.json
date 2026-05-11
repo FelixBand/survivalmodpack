@@ -1156,6 +1156,28 @@
         "sha512": "33a9a50fee2de639680209e73b0e7c10f8f5221d19afd3ebcd8ecbffd8791593b819388762799ea6a23020fb5e4578859641f2300ca78ec951d784b8b4b6c18d"
       }
     },
+    {
+      "path": "mods/particle_core-0.3.2+1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/RSeLon5O/versions/kIlv5noY/particle_core-0.3.2%2B1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "9d5b466bd0eabcf49564c760b9e88d781cbe0feb",
+        "sha512": "a31cfc8cdf8be7f4a7a6351b3c8e48c6576334436c7bcd07db998fd84ca8aa65c061bd4480884fa866d9c4705890a20d7d007cbdc034361fc8c0fd83a3ff944e"
+      }
+    },
+    {
+      "path": "mods/bettersmoke-0.1.2+1.21.9-1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Effrh3ze/versions/5L5AGmzz/bettersmoke-0.1.2%2B1.21.9-1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "d0abb998d86af93a25f62f0d70d4047e3a963f00",
+        "sha512": "67bbc8961ae017ced6be3d1664abedb671b92977b44dfe96cd0c4610d9ed15bf96dd7af82068e23b4f6020f2e7f05780d3a7bc10284fc5733e338f0508de1f6d"
+      }
+    },
 
     
     {
