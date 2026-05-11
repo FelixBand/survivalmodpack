@@ -1157,17 +1157,6 @@
       }
     },
     {
-      "path": "mods/bettersmoke-0.1.2+1.21.9-1.21.11.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/Effrh3ze/versions/5L5AGmzz/bettersmoke-0.1.2%2B1.21.9-1.21.11.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "d0abb998d86af93a25f62f0d70d4047e3a963f00",
-        "sha512": "67bbc8961ae017ced6be3d1664abedb671b92977b44dfe96cd0c4610d9ed15bf96dd7af82068e23b4f6020f2e7f05780d3a7bc10284fc5733e338f0508de1f6d"
-      }
-    },
-    {
       "path": "mods/fzzy_config-0.7.6+1.21.11.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/hYykXjDp/versions/nSB6xGOS/fzzy_config-0.7.6%2B1.21.11.jar"
