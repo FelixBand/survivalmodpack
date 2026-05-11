@@ -1123,6 +1123,17 @@
         "sha512": "7a7127285f7fa84a7d68bfb167feefd40f37cec7450a1cd11e9f5048db37580bc65082c5feeb034805cb79e1133841dc05af8837bc4334af4d83ad2ada5a3067"
       }
     },
+    {
+      "path": "mods/anyblockendermen-1.0.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/IgcswyEl/versions/E3O9hQae/anyblockendermen-1.0.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "dbae841baaf28d61011ecd84bbed76b751240c4e",
+        "sha512": "fb35623ccfccede2ee0841a0f0d52775f53fe24bc0aa89db901a4609bb6dfa1d6e2ed7650ab14d9625938ad88e001b2ddd027018ed6e8b54b707468512ad68d8"
+      }
+    },
 
 
     
