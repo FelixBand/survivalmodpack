@@ -1222,6 +1222,17 @@
         "sha512": "74a5b2acb1c4834a36f61bdeac11183d843f15bf4f52bce1105936e407ffd2b4386d894ed054338780fabf1afe8be6796d94a55dd68f65afe973b0f059fee4c6"
       }
     },
+    {
+      "path": "mods/Fractal Lightning-1.0.1-MC1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/VWGDEfBo/versions/Ws35PjbH/Fractal%20Lightning-1.0.1-MC1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "c69dd72087c60f675b9368da096c1ecc34341647",
+        "sha512": "a76de1d887dea9a9c37a7b91aa57799226edabc244cc00018407a8e886fedc93d556db789c217f12a942e2c00136fea1c37bba524480011b3fca02d59406b746"
+      }
+    },
 
     
     {
