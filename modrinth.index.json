@@ -1189,6 +1189,17 @@
         "sha512": "7dd101875929b8d55fca29b582ac97ab991a58838307ac9df4eac4704378a312566d311d25ba2344c5643b5d7ebba9447578251b83ad80b219f73ef7dbc8f032"
       }
     },
+    {
+      "path": "mods/FABRIC-1.21.11-0.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/6hNNZ0Et/versions/aNceURdS/FABRIC-1.21.11-0.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "ff0f8c006c045b5af074b06824f5eef222adf928",
+        "sha512": "4c58abe377f2e1b3e3b688bea6894bf2539b606bdbcfdfbfefb2bd729240f90d2945e3183fbf88076ef13c064ea9c53d2888554d340735aef422209bb2897ada"
+      }
+    },
 
     
     {
