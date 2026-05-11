@@ -1145,7 +1145,17 @@
         "sha512": "5fbbaaabeb2edb86b42428994ac273a552d833f68cb169c2803c8ec73829bc2dd41ebc910bcdd1341feb78c779ba0ad13d05105491c17f150d65441156088241"
       }
     },
-
+    {
+      "path": "mods/SlimyBoyos-fabric-1.21.11-24.0.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/aT62gFqe/versions/YFVusem0/SlimyBoyos-fabric-1.21.11-24.0.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5d8163b6586e302d422ddf2a33d94576e3929020",
+        "sha512": "33a9a50fee2de639680209e73b0e7c10f8f5221d19afd3ebcd8ecbffd8791593b819388762799ea6a23020fb5e4578859641f2300ca78ec951d784b8b4b6c18d"
+      }
+    },
 
     
     {
