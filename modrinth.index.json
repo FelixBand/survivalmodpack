@@ -1178,6 +1178,17 @@
         "sha512": "67bbc8961ae017ced6be3d1664abedb671b92977b44dfe96cd0c4610d9ed15bf96dd7af82068e23b4f6020f2e7f05780d3a7bc10284fc5733e338f0508de1f6d"
       }
     },
+    {
+      "path": "mods/soaring_phantoms-1.2.2+1.21.11-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/d4Rp6J8P/versions/qByAdiES/soaring_phantoms-1.2.2%2B1.21.11-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "895351abe2eed6510024463786a40cc5fe48fc9c",
+        "sha512": "7dd101875929b8d55fca29b582ac97ab991a58838307ac9df4eac4704378a312566d311d25ba2344c5643b5d7ebba9447578251b83ad80b219f73ef7dbc8f032"
+      }
+    },
 
     
     {
