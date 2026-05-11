@@ -1233,6 +1233,17 @@
         "sha512": "a76de1d887dea9a9c37a7b91aa57799226edabc244cc00018407a8e886fedc93d556db789c217f12a942e2c00136fea1c37bba524480011b3fca02d59406b746"
       }
     },
+    {
+      "path": "mods/stormiespiders-fabric-1.21.11-3.2.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/3dsI6Hle/versions/9IpfIBVW/stormiespiders-fabric-1.21.11-3.2.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "ddd951d69edc1c281948d2f23f45690dfe577521",
+        "sha512": "7d7ba5c99e15b9861c35e235b173d04f136413570a5269712f33c648e0ef453fe9a4d8e1ff4b603ac3b95ff05ab5a298c6f8f3f981f49b530630ec84d8bc0127"
+      }
+    },
 
     
     {
