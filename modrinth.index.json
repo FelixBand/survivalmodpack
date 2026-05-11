@@ -1134,6 +1134,17 @@
         "sha512": "fb35623ccfccede2ee0841a0f0d52775f53fe24bc0aa89db901a4609bb6dfa1d6e2ed7650ab14d9625938ad88e001b2ddd027018ed6e8b54b707468512ad68d8"
       }
     },
+    {
+      "path": "mods/betterwalls-3.5.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/uYYEtS6i/versions/K4OpIv3C/betterwalls-3.5.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "6d1c02ce0d76656c09958c15e7e2601840f84492",
+        "sha512": "5fbbaaabeb2edb86b42428994ac273a552d833f68cb169c2803c8ec73829bc2dd41ebc910bcdd1341feb78c779ba0ad13d05105491c17f150d65441156088241"
+      }
+    },
 
 
     
