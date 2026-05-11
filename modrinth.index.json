@@ -478,14 +478,14 @@
       }
     },
     {
-      "path": "mods/nvidium-0.4.3-beta7-1.21.11.jar",
+      "path": "mods/nvidium-0.4.3-beta12-1.21.11.jar",
       "downloads": [
-        "https://github.com/drouarb/nvidium/releases/download/0.4.3-beta7/nvidium-0.4.3-beta7-1.21.11.jar"
+        "https://github.com/drouarb/nvidium/releases/download/0.4.3-beta12/nvidium-0.4.3-beta12-1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "f89a4c8a4acf8ff162a3f86af1a078afca7c42b3",
-        "sha512": "732a7d876df4bfabfed3d6ad5a050ad8cb197c91dd0134419a1d78edbcbbc6ada3c413293c4f01e6beca828e19d1aaf35a706b727407d273d4c320cc77e575be"
+        "sha1": "01be08dbd571c7af5ab96a45cec854d041a3fd3e",
+        "sha512": "f6ae1d4fb9236a0dfa1223a5cff0e69ada0a45ff9e217a74f98ebab397f7605ec3d57927a110b8208a0f9cda6614b5b082d888497b4518929073241ccd5497af"
       }
     },
     {
