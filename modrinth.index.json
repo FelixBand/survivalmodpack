@@ -478,17 +478,6 @@
       }
     },
     {
-      "path": "mods/nvidium-0.4.3-beta12-1.21.11.jar",
-      "downloads": [
-        "https://github.com/drouarb/nvidium/releases/download/0.4.3-beta12/nvidium-0.4.3-beta12-1.21.11.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "01be08dbd571c7af5ab96a45cec854d041a3fd3e",
-        "sha512": "f6ae1d4fb9236a0dfa1223a5cff0e69ada0a45ff9e217a74f98ebab397f7605ec3d57927a110b8208a0f9cda6614b5b082d888497b4518929073241ccd5497af"
-      }
-    },
-    {
       "path": "mods/voxy-server-side-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/84zcagOb/versions/FUA8kyHB/voxy-server-side-fabric.jar"
@@ -1179,6 +1168,17 @@
       }
     },
     {
+      "path": "mods/fzzy_config-0.7.6+1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/hYykXjDp/versions/nSB6xGOS/fzzy_config-0.7.6%2B1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "9b064c8bd1d6414549f6a1adcadf678ffa0c96c8",
+        "sha512": "cdd43ee1ae99838b05b87d186ee8c3c051fda1388456d5ca88bb03e8e445722421cb6b8f9c9a6c4bd0f111ddccf526a8373d7c3cab5edd0f5da1190a787bdf88"
+      }
+    },
+    {
       "path": "mods/soaring_phantoms-1.2.2+1.21.11-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/d4Rp6J8P/versions/qByAdiES/soaring_phantoms-1.2.2%2B1.21.11-fabric.jar"
@@ -1209,6 +1209,17 @@
       "hashes": {
         "sha1": "a2a7227b5453fed4dce580330aceab47bd2a652f",
         "sha512": "520f04eef967f2a455851540c51c2d7e80bbdc3bf14402c28bb28540ed64ac64b9c3ce8ba82dbdaf79eb9f998458c971fb788f247a0abe7346c37ee7dd1ad0cd"
+      }
+    },
+    {
+      "path": "mods/quad-1.2.15+1.21.11-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/7jzrCiK0/versions/TU9uupLI/quad-1.2.15%2B1.21.11-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "332b51816bd3f444511c31fef8240cdb0b372a3d",
+        "sha512": "98bfba0124e84bce47ce51602ebbc1d4c98180a7b38ce38adc30b8a57374ddc3c5437fb0c0c7c16f934b18d92ac20dc5c9a644df97712eb4e2b68443ee03ebf0"
       }
     },
     {
