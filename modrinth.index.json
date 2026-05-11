@@ -1201,28 +1201,6 @@
       }
     },
     {
-      "path": "mods/quad-1.2.15+1.21.11-fabric.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/7jzrCiK0/versions/TU9uupLI/quad-1.2.15%2B1.21.11-fabric.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "332b51816bd3f444511c31fef8240cdb0b372a3d",
-        "sha512": "98bfba0124e84bce47ce51602ebbc1d4c98180a7b38ce38adc30b8a57374ddc3c5437fb0c0c7c16f934b18d92ac20dc5c9a644df97712eb4e2b68443ee03ebf0"
-      }
-    },
-    {
-      "path": "mods/MoreCraftingTables-1.2.11+1.21.5-Fabric.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/C5hwIsg1/versions/XsN6Ellv/MoreCraftingTables-1.2.11%2B1.21.5-Fabric.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "1266d2390091118bb48477b5d3e799c39f087c6b",
-        "sha512": "74a5b2acb1c4834a36f61bdeac11183d843f15bf4f52bce1105936e407ffd2b4386d894ed054338780fabf1afe8be6796d94a55dd68f65afe973b0f059fee4c6"
-      }
-    },
-    {
       "path": "mods/Fractal Lightning-1.0.1-MC1.21.11.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/VWGDEfBo/versions/Ws35PjbH/Fractal%20Lightning-1.0.1-MC1.21.11.jar"
