@@ -1200,6 +1200,28 @@
         "sha512": "4c58abe377f2e1b3e3b688bea6894bf2539b606bdbcfdfbfefb2bd729240f90d2945e3183fbf88076ef13c064ea9c53d2888554d340735aef422209bb2897ada"
       }
     },
+    {
+      "path": "mods/wet-sand-beta-0.0.2-1.21.9.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/aCchvKq6/versions/omSFSfRE/wet-sand-beta-0.0.2-1.21.9.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "a2a7227b5453fed4dce580330aceab47bd2a652f",
+        "sha512": "520f04eef967f2a455851540c51c2d7e80bbdc3bf14402c28bb28540ed64ac64b9c3ce8ba82dbdaf79eb9f998458c971fb788f247a0abe7346c37ee7dd1ad0cd"
+      }
+    },
+    {
+      "path": "mods/MoreCraftingTables-1.2.11+1.21.5-Fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/C5hwIsg1/versions/XsN6Ellv/MoreCraftingTables-1.2.11%2B1.21.5-Fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "1266d2390091118bb48477b5d3e799c39f087c6b",
+        "sha512": "74a5b2acb1c4834a36f61bdeac11183d843f15bf4f52bce1105936e407ffd2b4386d894ed054338780fabf1afe8be6796d94a55dd68f65afe973b0f059fee4c6"
+      }
+    },
 
     
     {
