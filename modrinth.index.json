@@ -500,6 +500,17 @@
       }
     },
     {
+      "path": "mods/malilib-fabric-1.21.11-0.27.9.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/GcWjdA9I/versions/UW6wRWbH/malilib-fabric-1.21.11-0.27.9.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "932ad57f43937dda82be5996f08ce8e21c875b51",
+        "sha512": "99d44b55b83d5f66e7e027ee22987758a291af2c32d42465e74c6d3527227abee957f0b71399f82017545e8a5dda3e75a22a90b7fa8484a3d4ae8cbc609f2e75"
+      }
+    },
+    {
       "path": "mods/eclipsestweakeroo-0.6.9-1.21.11.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/6kKLK5i1/versions/SuBm6bqA/eclipsestweakeroo-0.6.9-1.21.11.jar"
