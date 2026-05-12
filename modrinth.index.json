@@ -565,6 +565,28 @@
         "sha512": "dbfab81a8123cbfc859ebdbefcb06312c84f9313000893d5fdbb9c8e899d6f0e14bd5124fd782db865e0636400d8f5cf7b3808767dec165fdf37372d317f0bc9"
       }
     },
+    {
+      "path": "mods/netherportalspread-1.21.11-8.4.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/z7UX4SHt/versions/stLIuN4N/netherportalspread-1.21.11-8.4.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e63059855d70c7f613d190e6dd3263b41046ba9f",
+        "sha512": "d7ee42d8fc9771f564a38e89798fd22dd6f79fd910c2ef324a4939f77d9af06b809c08be35136d316439c1f572ea53fbfd11071d8fa9ecab71a601801fe09ff4"
+      }
+    },
+    {
+      "path": "mods/firespreadtweaks-1.21.11-2.8.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/vgI7KTun/versions/q4kPQSby/firespreadtweaks-1.21.11-2.8.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e3ac0394b6fe4545319309c9e6688477479f575f",
+        "sha512": "946f8b26162a9567f110851eebdf1b16846b24b733d1c90cf6e464a1cb8dab5ebfbfeb002e137b76e0fa12bb695313ef35aee977d8d1ee86c0c88d1c3b80ecd0"
+      }
+    },
 
 
 
