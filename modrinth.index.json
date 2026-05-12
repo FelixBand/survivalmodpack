@@ -532,6 +532,17 @@
         "sha512": "1f1f501a51b7f0e9880a941c42c0d104fea197c0be065189c16933b52ec83d548e0713be2df859f042bbb6fd40f2778c3f44f2f9bdf7d89e6cc89f12f16fe3b0"
       }
     },
+    {
+      "path": "mods/stackablepotions-1.0.0+1.21.11-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/yppxDTPT/versions/Hx8LyEbB/stackablepotions-1.0.0%2B1.21.11-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e43d24493a15ab6619d7cb01fddf91452c0566c6",
+        "sha512": "b2eb28ddd863f81290dc5421bcdc805927563d5eb67dd33c3e1cb24e366f5bd7cd6a6632e857bbf0d2e0891edcef49525c75e8d45630e5778e779c3791bdb532"
+      }
+    },
 
 
 
