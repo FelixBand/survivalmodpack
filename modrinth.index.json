@@ -488,6 +488,28 @@
         "sha512": "46c56bd6422ed5674ec5391abf2163c0c23e636c2bd2b0786122f6e580badc4767444d973e9e0545510e04bf2a4614555fe840956a43e7c973be20825d0f21fb"
       }
     },
+    {
+      "path": "mods/tweakeroo-fabric-1.21.11-0.27.7.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/t5wuYk45/versions/JavgNk3E/tweakeroo-fabric-1.21.11-0.27.7.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "90e6e0204ef2688443764f5866dae2eea6151c57",
+        "sha512": "b2c9bc90dee3fc443b189d6be9732275e6e7aed0b73ac95583a19800bb5010796a959427ff22eb0800658e93e711e1ba23c5ffc73b116b46538d02d8dffce5b0"
+      }
+    },
+    {
+      "path": "mods/eclipsestweakeroo-0.6.9-1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/6kKLK5i1/versions/SuBm6bqA/eclipsestweakeroo-0.6.9-1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "114204fe3395f6243a271b5d2c3d0ca1b431a4fd",
+        "sha512": "a7ebb265ff338b61ce342a09c110b1a7973a307e837a19375b989747512cd07af406628a28d08f6a5e4f1f76812ce227fe74b24e768e5837199e2f1fa1ed3c12"
+      }
+    },
 
 
 
