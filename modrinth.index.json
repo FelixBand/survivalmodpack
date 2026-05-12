@@ -543,6 +543,28 @@
         "sha512": "b2eb28ddd863f81290dc5421bcdc805927563d5eb67dd33c3e1cb24e366f5bd7cd6a6632e857bbf0d2e0891edcef49525c75e8d45630e5778e779c3791bdb532"
       }
     },
+    {
+      "path": "mods/collective-1.21.11-8.22.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/e0M1UDsY/versions/6EPDFSpU/collective-1.21.11-8.22.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "c2415063e15271a1c4208a107bb712c0710457b7",
+        "sha512": "53ffcc1ae26713254c11a975f4d5182e709b637f4706e563cf1d3e8b90bab510ed6552609a1e757e298f505ae9aabe1cdb952afbdc2879c8039226783733a3b4"
+      }
+    },
+    {
+      "path": "mods/cryingportals-1.21.11-2.9.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/3RkVNglH/versions/eVDU4NPn/cryingportals-1.21.11-2.9.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2f7760d8eb6cb9c476a1bfbb9e4d90d01302bcc0",
+        "sha512": "dbfab81a8123cbfc859ebdbefcb06312c84f9313000893d5fdbb9c8e899d6f0e14bd5124fd782db865e0636400d8f5cf7b3808767dec165fdf37372d317f0bc9"
+      }
+    },
 
 
 
