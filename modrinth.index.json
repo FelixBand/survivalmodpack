@@ -532,62 +532,6 @@
         "sha512": "1f1f501a51b7f0e9880a941c42c0d104fea197c0be065189c16933b52ec83d548e0713be2df859f042bbb6fd40f2778c3f44f2f9bdf7d89e6cc89f12f16fe3b0"
       }
     },
-    {
-      "path": "mods/stackablepotions-1.0.0+1.21.11-fabric.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/yppxDTPT/versions/Hx8LyEbB/stackablepotions-1.0.0%2B1.21.11-fabric.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "e43d24493a15ab6619d7cb01fddf91452c0566c6",
-        "sha512": "b2eb28ddd863f81290dc5421bcdc805927563d5eb67dd33c3e1cb24e366f5bd7cd6a6632e857bbf0d2e0891edcef49525c75e8d45630e5778e779c3791bdb532"
-      }
-    },
-    {
-      "path": "mods/collective-1.21.11-8.22.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/e0M1UDsY/versions/6EPDFSpU/collective-1.21.11-8.22.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "c2415063e15271a1c4208a107bb712c0710457b7",
-        "sha512": "53ffcc1ae26713254c11a975f4d5182e709b637f4706e563cf1d3e8b90bab510ed6552609a1e757e298f505ae9aabe1cdb952afbdc2879c8039226783733a3b4"
-      }
-    },
-    {
-      "path": "mods/cryingportals-1.21.11-2.9.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/3RkVNglH/versions/eVDU4NPn/cryingportals-1.21.11-2.9.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "2f7760d8eb6cb9c476a1bfbb9e4d90d01302bcc0",
-        "sha512": "dbfab81a8123cbfc859ebdbefcb06312c84f9313000893d5fdbb9c8e899d6f0e14bd5124fd782db865e0636400d8f5cf7b3808767dec165fdf37372d317f0bc9"
-      }
-    },
-    {
-      "path": "mods/netherportalspread-1.21.11-8.4.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/z7UX4SHt/versions/stLIuN4N/netherportalspread-1.21.11-8.4.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "e63059855d70c7f613d190e6dd3263b41046ba9f",
-        "sha512": "d7ee42d8fc9771f564a38e89798fd22dd6f79fd910c2ef324a4939f77d9af06b809c08be35136d316439c1f572ea53fbfd11071d8fa9ecab71a601801fe09ff4"
-      }
-    },
-    {
-      "path": "mods/firespreadtweaks-1.21.11-2.8.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/vgI7KTun/versions/q4kPQSby/firespreadtweaks-1.21.11-2.8.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "e3ac0394b6fe4545319309c9e6688477479f575f",
-        "sha512": "946f8b26162a9567f110851eebdf1b16846b24b733d1c90cf6e464a1cb8dab5ebfbfeb002e137b76e0fa12bb695313ef35aee977d8d1ee86c0c88d1c3b80ecd0"
-      }
-    },
-
 
 
 
@@ -1354,7 +1298,73 @@
         "sha512": "7b6754fb50f945346f15818572018a7e47c15e5bb156c92122409165ad2b40fb6da0a6fcc01778f6c8b02a06781776facb3048c39fb01da564e570904b2a2741"
       }
     },
-
+    {
+      "path": "mods/stackablepotions-1.0.0+1.21.11-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/yppxDTPT/versions/Hx8LyEbB/stackablepotions-1.0.0%2B1.21.11-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e43d24493a15ab6619d7cb01fddf91452c0566c6",
+        "sha512": "b2eb28ddd863f81290dc5421bcdc805927563d5eb67dd33c3e1cb24e366f5bd7cd6a6632e857bbf0d2e0891edcef49525c75e8d45630e5778e779c3791bdb532"
+      }
+    },
+    {
+      "path": "mods/collective-1.21.11-8.22.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/e0M1UDsY/versions/6EPDFSpU/collective-1.21.11-8.22.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "c2415063e15271a1c4208a107bb712c0710457b7",
+        "sha512": "53ffcc1ae26713254c11a975f4d5182e709b637f4706e563cf1d3e8b90bab510ed6552609a1e757e298f505ae9aabe1cdb952afbdc2879c8039226783733a3b4"
+      }
+    },
+    {
+      "path": "mods/cryingportals-1.21.11-2.9.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/3RkVNglH/versions/eVDU4NPn/cryingportals-1.21.11-2.9.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2f7760d8eb6cb9c476a1bfbb9e4d90d01302bcc0",
+        "sha512": "dbfab81a8123cbfc859ebdbefcb06312c84f9313000893d5fdbb9c8e899d6f0e14bd5124fd782db865e0636400d8f5cf7b3808767dec165fdf37372d317f0bc9"
+      }
+    },
+    {
+      "path": "mods/netherportalspread-1.21.11-8.4.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/z7UX4SHt/versions/stLIuN4N/netherportalspread-1.21.11-8.4.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e63059855d70c7f613d190e6dd3263b41046ba9f",
+        "sha512": "d7ee42d8fc9771f564a38e89798fd22dd6f79fd910c2ef324a4939f77d9af06b809c08be35136d316439c1f572ea53fbfd11071d8fa9ecab71a601801fe09ff4"
+      }
+    },
+    {
+      "path": "mods/firespreadtweaks-1.21.11-2.8.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/vgI7KTun/versions/q4kPQSby/firespreadtweaks-1.21.11-2.8.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e3ac0394b6fe4545319309c9e6688477479f575f",
+        "sha512": "946f8b26162a9567f110851eebdf1b16846b24b733d1c90cf6e464a1cb8dab5ebfbfeb002e137b76e0fa12bb695313ef35aee977d8d1ee86c0c88d1c3b80ecd0"
+      }
+    },
+    {
+      "path": "mods/midnightlib-fabric-1.9.3+1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/codAaoxh/versions/jkodor79/midnightlib-fabric-1.9.3%2B1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5ff624cc3763a0cb9a25296ed3a442d1ace44d68",
+        "sha512": "07155319e25dbcf17cf0253382a7dc8882edea650cab770328fbad91bf55f21ce043fd6e2a6a1680e765b14b89173f960a880511c78942ad3bb2f0200ddd6969"
+      }
+    },
+    
 
     
     {
