@@ -1397,6 +1397,17 @@
         "sha512": "af744ef3cce6f5104a984369a135ef6352a5bb735db873101a3e5bedf8262d543c8a2c6fb86ff63f33a7f0ccf56e00c95d388d3e74199a3558bf9aa54025483f"
       }
     },
+    {
+      "path": "mods/Terralith_ReStoned_v1.3.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/oTQsXi8U/versions/9wwdRqkT/Terralith_ReStoned_v1.3.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "66ba79dd83e459c1a47b77d041d56424b6978e7c",
+        "sha512": "64b6499aa08a174be45c080ed5d7e688195601708e7aa9ed443c4f7bd6e7777951002fa135023b6b85a9e2cde704e1fda9a6a81dc306dffbbca829b85653f542"
+      }
+    },
     
 
     
