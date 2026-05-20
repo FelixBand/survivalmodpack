@@ -1332,6 +1332,18 @@
         "sha512": "1a5aff18974c2ab17e1041a13e318d495236bd0e2592176f3523161815d0a6bb2e4a643f4449882cd92539f2eac1b70165d748e78cff5118c8572b8bfe03cb7f"
       }
     },
+    {
+      "path": "mods/repurposed_structures-7.6.2%2B1.21.11-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/muf0XoRe/versions/LgshXq1u/repurposed_structures-7.6.2%2B1.21.11-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "dc88e4bea42a5e007eb5c2d0107271a43f1db363",
+        "sha512": "b535e4247dfb71dec709ff021c2a40fad10c34c22a2950ee24b772d1841188f27f671050de88048684871cdfba84855ca7f65374768ba3b36ab8863c9b0697bc"
+      }
+    },
+
 
     
     {
