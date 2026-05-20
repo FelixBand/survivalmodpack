@@ -1343,6 +1343,17 @@
         "sha512": "b535e4247dfb71dec709ff021c2a40fad10c34c22a2950ee24b772d1841188f27f671050de88048684871cdfba84855ca7f65374768ba3b36ab8863c9b0697bc"
       }
     },
+    {
+      "path": "mods/DyedFlames-v21.11.0-mc1.21.11-Fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/66H5fc9R/versions/uARUB9Br/DyedFlames-v21.11.0-mc1.21.11-Fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "8fed5984412f76d9af9386edbf0bd3cd1b918e71",
+        "sha512": "7b6754fb50f945346f15818572018a7e47c15e5bb156c92122409165ad2b40fb6da0a6fcc01778f6c8b02a06781776facb3048c39fb01da564e570904b2a2741"
+      }
+    },
 
 
     
