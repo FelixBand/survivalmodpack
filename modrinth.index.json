@@ -412,14 +412,14 @@
       }
     },
     {
-      "path": "mods/vivecraft-1.21.11-1.3.7-fabric.jar",
+      "path": "mods/vivecraft-1.21.11-1.3.8-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wGoQDPN5/versions/GovTWsJu/vivecraft-1.21.11-1.3.7-fabric.jar"
+        "https://cdn.modrinth.com/data/wGoQDPN5/versions/NGMag6l5/vivecraft-1.21.11-1.3.8-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "208d12fa6d31804bf83439909d31f4a1bac96f22",
-        "sha512": "dbb261dbe792473691fb41d1963386d56c8cc53d93caaa8d3b31ab98eae9f47b12507a57b778325f0389812eea68686658d763e8dc388dd91bebc9fa962dba8e"
+        "sha1": "de809c3b8cf78945d2d574bc3b6ef646536179cd",
+        "sha512": "f29c4f25cef154e9dbc633868de695b905b0c102ae869cdc810c7d5fe0fc1b53b99742fedf4efb298a23e8c90065699f4be263cfae2b7cb30684ed007fa44a1c"
       }
     },
     {
