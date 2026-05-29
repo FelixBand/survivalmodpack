@@ -1408,6 +1408,17 @@
         "sha512": "64b6499aa08a174be45c080ed5d7e688195601708e7aa9ed443c4f7bd6e7777951002fa135023b6b85a9e2cde704e1fda9a6a81dc306dffbbca829b85653f542"
       }
     },
+    {
+      "path": "mods/wavify-1.0.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/yTjEgNSm/versions/NoYzQQPU/wavify-1.0.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "ffbd1314f23bb332d87bcba922e510e872a48d60",
+        "sha512": "9cbc989c8e1244a1129a257655e97a84f249397a8d271d8f0e645fa6913ac15625870f9142bdca9920258afc0989ed67740e6b7fcbbf6539e009db52788bc29e"
+      }
+    },
     
 
     
